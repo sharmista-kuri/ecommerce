@@ -1,0 +1,58 @@
+[
+    { 
+      "id": 1, 
+      "name": "ThinkPad X1 Carbon Gen 11 Intel (14”) - Black", 
+      "description": "Description of Product 1.", 
+      "OriginalPrice": 3559.00,
+      "discountedPrice": 1672.73,
+      "price": 1672.73,
+      "isClearance": "CLEARANCE",
+      "Clearance": "CLEARANCE",
+      "image": "/images/laptop.jpg"
+    },
+    { 
+      "id": 2, 
+      "name": "Chromebook Duet Gen 9 (11″ MediaTek)", 
+      "description": "Description of Product 2", 
+      "OriginalPrice": 359.99,
+      "discountedPrice": 359.99,
+      "price": 359.99,
+      "isClearance": "",
+      "Clearance": "NEW ARRIVAL",
+      "image": "/images/Chromebook Duet 3 (11) - Storm Grey.avif"
+    },
+    { 
+      "id": 3, 
+      "name": "ThinkPad X1 Carbon Gen 12 Intel (14ʺ)", 
+      "description": "Description of Product 1", 
+      "OriginalPrice": 2559.00,
+      "discountedPrice": 1407.45,
+      "price": 1407.45,
+      "isClearance": "CLEARANCE",
+      "Clearance": "CLEARANCE",
+      "image": "/images/laptop.jpg"
+    },
+    { 
+      "id": 4, 
+      "name": "Lenovo Slim 7i (14” Intel) Laptop", 
+      "description": "Description of Product 2", 
+      "OriginalPrice": 939.99,
+      "discountedPrice": 939.99,
+      "price": 939.99,
+      "isClearance": "",
+      "Clearance": "NEW ARRIVAL",
+      "image": "/images/Lenovo Slim 7i (14 Intel) Laptop.avif"
+    },
+    { 
+      "id": 5, 
+      "name": "ThinkPad L13 Yoga Gen 3 (13” AMD) 2 in 1 Laptop", 
+      "description": "Description of Product 2", 
+      "OriginalPrice": 2009.00,
+      "discountedPrice": 1305.85,
+      "price": 1305.85,
+      "isClearance": "CLEARANCE",
+      "Clearance": "NEW ARRIVAL",
+      "image": "/images/ThinkPad L13 Yoga Gen 3 (13 AMD) 2 in 1 Laptop.avif"
+    }
+  ]
+  

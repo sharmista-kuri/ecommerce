@@ -1,0 +1,80 @@
+/* Profile.css */
+
+.profile {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 1.5rem;
+  }
+  
+  .profile form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .profile form div {
+    margin-bottom: 1rem;
+  }
+  
+  .profile label {
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 0.5rem;
+  }
+  
+  .profile input[type="text"],
+  .profile input[type="email"] {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .profile input[type="text"]:focus,
+  .profile input[type="email"]:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  .profile button {
+    padding: 0.75rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 1rem;
+  }
+  
+  .profile button:hover {
+    background-color: #0056b3;
+  }
+  
+  .profile .logout-button {
+    background-color: #dc3545;
+    margin-top: 1rem;
+  }
+  
+  .profile .logout-button:hover {
+    background-color: #c82333;
+  }
+  
+  .profile p[style] {
+    margin-bottom: 1rem;
+    color: red;
+    text-align: center;
+  }
+  
